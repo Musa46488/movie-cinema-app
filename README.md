@@ -1,16 +1,24 @@
-# movie_app
+# 🎬 Movie Cinema App
 
-A new Flutter project.
+A cross-platform mobile application built with Flutter for discovering movies and exploring cinema-related content through a modern mobile interface.
 
-## Getting Started
+## 📱 Overview
 
-This project is a starting point for a Flutter application.
+Movie Cinema App provides users with a simple and responsive way to browse movies and explore movie-related information.
 
-A few resources to get you started if this is your first Flutter project:
+The project was developed with Flutter and Dart, with a focus on reusable UI components, API-driven content, and a smooth mobile experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Browse available movies
+- View movie details
+- Explore movie-related content
+- API-based movie data
+- Responsive mobile interface
+- Cross-platform Android & iOS support
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- REST API
